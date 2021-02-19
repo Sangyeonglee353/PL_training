@@ -1,0 +1,3 @@
+﻿  test013.c
+D:\mysources\C300\Project13\Project13\test013.c(9,14): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+  Project13.vcxproj -> D:\mysources\C300\Project13\Debug\Project13.exe
