@@ -1,0 +1,5 @@
+﻿  test057.c
+D:\mysources\C_PL\C300\Project57\Project57\test057.c(12,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\mysources\C_PL\C300\Project57\Project57\test057.c(13,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\mysources\C_PL\C300\Project57\Project57\test057.c(8,8): warning C4101: 'string1' :참조되지 않은 지역 변수입니다.
+  Project57.vcxproj -> D:\mysources\C_PL\C300\Project57\Debug\Project57.exe
