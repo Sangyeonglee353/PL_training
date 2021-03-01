@@ -1,0 +1,5 @@
+﻿  test047.c
+D:\mysources\C_PL\C300\Project47\Project47\test047.c(3,25): warning C4030: 첫째 정식 매개 변수 목록이 둘째 목록보다 깁니다.
+D:\mysources\C_PL\C300\Project47\Project47\test047.c(3,25): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+D:\mysources\C_PL\C300\Project47\Project47\test047.c(7,7): warning C4013: 'print'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  Project47.vcxproj -> D:\mysources\C_PL\C300\Project47\Debug\Project47.exe
