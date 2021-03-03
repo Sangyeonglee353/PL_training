@@ -1,0 +1,4 @@
+﻿  test108.c
+D:\mysources\C_PL\C300\Project108\Project108\test108.c(16,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+D:\mysources\C_PL\C300\Project108\Project108\test108.c(17,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+  Project108.vcxproj -> D:\mysources\C_PL\C300\Project108\Debug\Project108.exe
