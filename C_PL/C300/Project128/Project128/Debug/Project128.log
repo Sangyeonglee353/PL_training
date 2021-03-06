@@ -1,0 +1,3 @@
+﻿  test128.c
+D:\mysources\C_PL\C300\Project128\Project128\test128.c(16,9): warning C4133: '=': 'double *'과(와) 'int *' 사이의 형식이 호환되지 않습니다.
+  Project128.vcxproj -> D:\mysources\C_PL\C300\Project128\Debug\Project128.exe
