@@ -1,0 +1,3 @@
+﻿  test196.c
+D:\mysources\C_PL\C300\Project196\Project196\test196.c(5,13): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+D:\mysources\C_PL\C300\Project196\Project196\test196.c(6,1): fatal error C1189: #error:  "COUNT MACRO is not defined!"
