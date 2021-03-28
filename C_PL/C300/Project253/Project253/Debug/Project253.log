@@ -1,0 +1,4 @@
+﻿  test253.c
+D:\mysources\C_PL\C300\Project253\Project253\test253.c(25,18): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\mysources\C_PL\C300\Project253\Project253\test253.c(26,18): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Project253.vcxproj -> D:\mysources\C_PL\C300\Project253\Debug\Project253.exe
