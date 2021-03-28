@@ -1,0 +1,4 @@
+﻿  test262.c
+D:\mysources\C_PL\C300\Project262\Project262\test262.c(21,19): error C2039: 'tIme': '__timeb64'의 멤버가 아닙니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\sys\timeb.h(29): message : '__timeb64' 선언을 참조하십시오.
+D:\mysources\C_PL\C300\Project262\Project262\test262.c(21,14): error C2198: 'ctime': 호출에 인수가 너무 적습니다.
