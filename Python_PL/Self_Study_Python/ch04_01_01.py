@@ -1,3 +1,4 @@
+# 04-1 | 리스트와 반복문 확인 문제 1
 list_a= [0, 1, 2, 3, 4, 5, 6, 7]
 list_a.extend(list_a)
 print("list_a.extend:", list_a)
