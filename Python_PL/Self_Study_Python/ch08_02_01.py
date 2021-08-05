@@ -14,7 +14,7 @@ class Student:
     
     def get_average(self):
         return self.get_sum() / 4
-
+op
     def __eq__(self, value):
         return self.get_average() == value
     def __ne__(self, value):
