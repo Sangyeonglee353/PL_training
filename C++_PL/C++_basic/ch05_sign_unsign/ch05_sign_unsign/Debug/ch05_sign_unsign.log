@@ -1,0 +1,4 @@
+﻿  sign_unsign.cpp
+D:\programing\Study\C++_PL\C++_basic\ch05_sign_unsign\ch05_sign_unsign\sign_unsign.cpp(38,16): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+D:\programing\Study\C++_PL\C++_basic\ch05_sign_unsign\ch05_sign_unsign\sign_unsign.cpp(39,8): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ch05_sign_unsign.vcxproj -> D:\programing\Study\C++_PL\C++_basic\ch05_sign_unsign\Debug\ch05_sign_unsign.exe
