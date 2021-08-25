@@ -1,0 +1,6 @@
+﻿  ch13_pointer_1.cpp
+D:\programing\Study\C++_PL\C++_basic\ch13_pointer_1\ch13_pointer_1\ch13_pointer_1.cpp(24,7): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+D:\programing\Study\C++_PL\C++_basic\ch13_pointer_1\ch13_pointer_1\ch13_pointer_1.cpp(25,7): warning C4101: 'b' :참조되지 않은 지역 변수입니다.
+D:\programing\Study\C++_PL\C++_basic\ch13_pointer_1\ch13_pointer_1\ch13_pointer_1.cpp(26,7): warning C4101: 'c' :참조되지 않은 지역 변수입니다.
+D:\programing\Study\C++_PL\C++_basic\ch13_pointer_1\ch13_pointer_1\ch13_pointer_1.cpp(26,10): warning C4101: 'd' :참조되지 않은 지역 변수입니다.
+  ch13_pointer_1.vcxproj -> D:\programing\Study\C++_PL\C++_basic\ch13_pointer_1\Debug\ch13_pointer_1.exe
