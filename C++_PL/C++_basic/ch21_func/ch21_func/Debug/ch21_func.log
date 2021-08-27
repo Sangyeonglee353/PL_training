@@ -1,0 +1,3 @@
+﻿  ch21_func.cpp
+D:\programing\Study\C++_PL\C++_basic\ch21_func\ch21_func\ch21_func.cpp(5,22): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  ch21_func.vcxproj -> D:\programing\Study\C++_PL\C++_basic\ch21_func\Debug\ch21_func.exe
