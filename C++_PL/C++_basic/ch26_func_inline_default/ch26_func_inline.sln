@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ch26_func_inline_default", "ch26_func_inline_default\ch26_func_inline_default.vcxproj", "{425F5267-0238-473C-BCAD-455CB774F116}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{425F5267-0238-473C-BCAD-455CB774F116}.Debug|x64.ActiveCfg = Debug|x64
+		{425F5267-0238-473C-BCAD-455CB774F116}.Debug|x64.Build.0 = Debug|x64
+		{425F5267-0238-473C-BCAD-455CB774F116}.Debug|x86.ActiveCfg = Debug|Win32
+		{425F5267-0238-473C-BCAD-455CB774F116}.Debug|x86.Build.0 = Debug|Win32
+		{425F5267-0238-473C-BCAD-455CB774F116}.Release|x64.ActiveCfg = Release|x64
+		{425F5267-0238-473C-BCAD-455CB774F116}.Release|x64.Build.0 = Release|x64
+		{425F5267-0238-473C-BCAD-455CB774F116}.Release|x86.ActiveCfg = Release|Win32
+		{425F5267-0238-473C-BCAD-455CB774F116}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05697C1B-FE1A-4BC0-B113-60280AF34B80}
+	EndGlobalSection
+EndGlobal
