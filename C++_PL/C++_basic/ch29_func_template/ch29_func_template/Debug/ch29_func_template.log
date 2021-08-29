@@ -1,0 +1,4 @@
+﻿  ch29_func_template.cpp
+D:\programing\Study\C++_PL\C++_basic\ch29_func_template\ch29_func_template\ch29_func_template.cpp(53,16): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+D:\programing\Study\C++_PL\C++_basic\ch29_func_template\ch29_func_template\ch29_func_template.cpp(54,17): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  ch29_func_template.vcxproj -> D:\programing\Study\C++_PL\C++_basic\ch29_func_template\Debug\ch29_func_template.exe
