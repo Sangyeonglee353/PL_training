@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ch33_operator_overloading", "ch33_operator_overloading\ch33_operator_overloading.vcxproj", "{3D961616-106A-44B1-8B1D-DB1CD3219356}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D961616-106A-44B1-8B1D-DB1CD3219356}.Debug|x64.ActiveCfg = Debug|x64
+		{3D961616-106A-44B1-8B1D-DB1CD3219356}.Debug|x64.Build.0 = Debug|x64
+		{3D961616-106A-44B1-8B1D-DB1CD3219356}.Debug|x86.ActiveCfg = Debug|Win32
+		{3D961616-106A-44B1-8B1D-DB1CD3219356}.Debug|x86.Build.0 = Debug|Win32
+		{3D961616-106A-44B1-8B1D-DB1CD3219356}.Release|x64.ActiveCfg = Release|x64
+		{3D961616-106A-44B1-8B1D-DB1CD3219356}.Release|x64.Build.0 = Release|x64
+		{3D961616-106A-44B1-8B1D-DB1CD3219356}.Release|x86.ActiveCfg = Release|Win32
+		{3D961616-106A-44B1-8B1D-DB1CD3219356}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F72D5961-4BF8-437A-970E-1C0B7D57F396}
+	EndGlobalSection
+EndGlobal

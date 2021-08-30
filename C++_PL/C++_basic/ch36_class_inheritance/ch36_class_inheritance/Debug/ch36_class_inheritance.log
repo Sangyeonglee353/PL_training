@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\programing\Study\C++_PL\C++_basic\ch36_class_inheritance\ch36_class_inheritance\main.cpp(9,10): warning C4930: 'NewTime temp1(void)': 프로토타입 함수가 호출되지 않았습니다. 변수 정의로 사용하려고 한 것은 아닌지 확인하십시오.
+  ch36_class_inheritance.vcxproj -> D:\programing\Study\C++_PL\C++_basic\ch36_class_inheritance\Debug\ch36_class_inheritance.exe
