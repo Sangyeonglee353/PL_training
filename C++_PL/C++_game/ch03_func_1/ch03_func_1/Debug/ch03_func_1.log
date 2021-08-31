@@ -1,0 +1,3 @@
+﻿  SpeedUpAndDown.cpp
+D:\programing\Study\C++_PL\C++_game\ch03_func_1\ch03_func_1\SpeedUpAndDown.cpp(5,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  ch03_func_1.vcxproj -> D:\programing\Study\C++_PL\C++_game\ch03_func_1\Debug\ch03_func_1.exe
