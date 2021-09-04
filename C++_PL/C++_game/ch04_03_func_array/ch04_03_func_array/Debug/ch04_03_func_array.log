@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\programing\Study\C++_PL\C++_game\ch04_03_func_array\ch04_03_func_array\main.cpp(16,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\programing\Study\C++_PL\C++_game\ch04_03_func_array\ch04_03_func_array\main.cpp(25,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  ch04_03_func_array.vcxproj -> D:\programing\Study\C++_PL\C++_game\ch04_03_func_array\Debug\ch04_03_func_array.exe

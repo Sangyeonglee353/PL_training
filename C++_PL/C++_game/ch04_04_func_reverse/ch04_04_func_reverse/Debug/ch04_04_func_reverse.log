@@ -1,0 +1,10 @@
+﻿  main.cpp
+D:\programing\Study\C++_PL\C++_game\ch04_04_func_reverse\ch04_04_func_reverse\main.cpp(4,61): error C2440: '기본 인수': 'const char [6]'에서 'char []'(으)로 변환할 수 없습니다.
+D:\programing\Study\C++_PL\C++_game\ch04_04_func_reverse\ch04_04_func_reverse\main.cpp(4,54): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+D:\programing\Study\C++_PL\C++_game\ch04_04_func_reverse\ch04_04_func_reverse\main.cpp(24,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+D:\programing\Study\C++_PL\C++_game\ch04_04_func_reverse\ch04_04_func_reverse\main.cpp(31,30): error C2664: 'void printArray(const int [],int,char [])': 인수 3을(를) 'const char [7]'에서 'char []'(으)로 변환할 수 없습니다.
+D:\programing\Study\C++_PL\C++_game\ch04_04_func_reverse\ch04_04_func_reverse\main.cpp(31,20): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+D:\programing\Study\C++_PL\C++_game\ch04_04_func_reverse\ch04_04_func_reverse\main.cpp(4,6): message : 'printArray' 선언을 참조하십시오.
+D:\programing\Study\C++_PL\C++_game\ch04_04_func_reverse\ch04_04_func_reverse\main.cpp(32,30): error C2664: 'void printArray(const int [],int,char [])': 인수 3을(를) 'const char [7]'에서 'char []'(으)로 변환할 수 없습니다.
+D:\programing\Study\C++_PL\C++_game\ch04_04_func_reverse\ch04_04_func_reverse\main.cpp(32,20): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+D:\programing\Study\C++_PL\C++_game\ch04_04_func_reverse\ch04_04_func_reverse\main.cpp(4,6): message : 'printArray' 선언을 참조하십시오.
