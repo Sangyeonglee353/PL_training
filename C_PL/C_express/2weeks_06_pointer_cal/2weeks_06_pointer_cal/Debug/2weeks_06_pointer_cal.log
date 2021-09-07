@@ -1,0 +1,8 @@
+﻿  main.c
+D:\programing\Study\C_PL\C_express\2weeks_06_pointer_cal\2weeks_06_pointer_cal\main.c(14,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+D:\programing\Study\C_PL\C_express\2weeks_06_pointer_cal\2weeks_06_pointer_cal\main.c(14,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+D:\programing\Study\C_PL\C_express\2weeks_06_pointer_cal\2weeks_06_pointer_cal\main.c(14,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'double *'입니다.
+D:\programing\Study\C_PL\C_express\2weeks_06_pointer_cal\2weeks_06_pointer_cal\main.c(19,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+D:\programing\Study\C_PL\C_express\2weeks_06_pointer_cal\2weeks_06_pointer_cal\main.c(19,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+D:\programing\Study\C_PL\C_express\2weeks_06_pointer_cal\2weeks_06_pointer_cal\main.c(19,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'double *'입니다.
+  2weeks_06_pointer_cal.vcxproj -> D:\programing\Study\C_PL\C_express\2weeks_06_pointer_cal\Debug\2weeks_06_pointer_cal.exe
