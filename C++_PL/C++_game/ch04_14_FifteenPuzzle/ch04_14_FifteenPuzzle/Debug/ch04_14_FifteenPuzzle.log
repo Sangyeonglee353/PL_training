@@ -1,0 +1,2 @@
+﻿  FifteenPuzzle.cpp
+D:\programing\Study\C++_PL\C++_game\ch04_14_FifteenPuzzle\ch04_14_FifteenPuzzle\FifteenPuzzle.cpp(1,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'Ranking.h': No such file or directory
