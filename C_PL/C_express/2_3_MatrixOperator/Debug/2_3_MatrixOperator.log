@@ -1,0 +1,3 @@
+﻿  main.c
+D:\programing\Study\C_PL\C_express\2_3_MatrixOperator\main.c(46,10): warning C4778: 'printf' : 서식 문자열 '%\n'이(가) 종결되지 않았습니다.
+  2_3_MatrixOperator.vcxproj -> D:\programing\Study\C_PL\C_express\2_3_MatrixOperator\Debug\2_3_MatrixOperator.exe
