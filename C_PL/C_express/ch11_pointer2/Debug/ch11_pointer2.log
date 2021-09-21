@@ -1,0 +1,6 @@
+﻿  pointer2.c
+D:\programing\Study\C_PL\C_express\ch11_pointer2\pointer2.c(9,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+D:\programing\Study\C_PL\C_express\ch11_pointer2\pointer2.c(10,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+D:\programing\Study\C_PL\C_express\ch11_pointer2\pointer2.c(15,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+D:\programing\Study\C_PL\C_express\ch11_pointer2\pointer2.c(16,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+  ch11_pointer2.vcxproj -> D:\programing\Study\C_PL\C_express\ch11_pointer2\Debug\ch11_pointer2.exe
