@@ -1,0 +1,4 @@
+﻿  main.c
+D:\programing\Study\C_PL\C_express\4weeks_char_copy\main.c(9,28): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+D:\programing\Study\C_PL\C_express\4weeks_char_copy\main.c(11,15): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+  4weeks_char_copy.vcxproj -> D:\programing\Study\C_PL\C_express\4weeks_char_copy\Debug\4weeks_char_copy.exe
