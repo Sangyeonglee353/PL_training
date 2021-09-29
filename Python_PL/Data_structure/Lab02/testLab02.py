@@ -1,5 +1,5 @@
-from Lab01 import *
-from lab02 import *
+from Lab01 import * # include everything from Lab01 module
+from Lab02 import * # include everything from Lab02 module
 
 def testString():
     st = 'Hello, World' # single quotes
@@ -160,14 +160,39 @@ def testFiles():
     frw.txtFile('license.txt')
     frw.csvFile()
 
-def main():
+def testVector(): # Defining the testVector function 
+    xCoords = [1.0, 2.0, 3.0, 4.0] # Initialize array xCoords
+    yCoords = [5.0, 2.0, 4.0, 1.0] # Initialize array yCoords
+    x = Vector(xCoords) # a new Vector object with Cartesian coordinates taken from array xCoords[]
+    y = Vector(yCoords) # a new Vector object with Cartesian coordinates taken from array yCoords[]
+
+    print('x       = ' + str(x))  # Print x coordinate
+    print('y       = ' + str(y))  # Print y coordinate
+    print('x+y     = ' + str(x+y)) # Print sum of x and y
+    print('10x     = ' + str(x.scale(10.0))) # Print scalar product of 10.0 and x
+    print('|x|     = ' + str(abs(x))) # Print magnitude of x
+    print('<x, y>  = ' + str(x.dot(y))) # Print dot product of x and y
+    print('|x - y| = ' + str(abs(x-y))) # Print magnitude of difference of x and y
+
+def testEightQueens(): # Defining the testEightQueens function
+    eq=EightQueens() # Initialize eq variable to EightQueens class
+    eq.solve() # Excute solve function from EigthQueens class
+
+def testGradeBook(): # Defining the testGreadeBook function
+    gb=GradeBook() # Initialize gb variable to GradeBook class
+    gb.computerGrades() # Excute computerGrades function from GradeBook class
+
+def main(): # Defining the main function 
     #testString()
     #testList()
     #test_tuples()
     #test_dict()
     #test_sets()
     #testBag()
-    testFiles()
+    #testFiles()
+    #testVector() # Excute testVector function
+    #testEightQueens() # Excute testEightQueens function
+    testGradeBook() # Excute testGradeBook function
 
-if __name__ == "__main__":
+if __name__ == "__main__": # Excite main function if __name__ is __main__
     main()
