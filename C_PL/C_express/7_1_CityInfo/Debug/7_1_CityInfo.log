@@ -1,0 +1,5 @@
+﻿  main.c
+D:\programing\Study\C_PL\C_express\7_1_CityInfo\main.c(19,1): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+D:\programing\Study\C_PL\C_express\7_1_CityInfo\main.c(20,1): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+D:\programing\Study\C_PL\C_express\7_1_CityInfo\main.c(21,1): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  7_1_CityInfo.vcxproj -> D:\programing\Study\C_PL\C_express\7_1_CityInfo\Debug\7_1_CityInfo.exe
