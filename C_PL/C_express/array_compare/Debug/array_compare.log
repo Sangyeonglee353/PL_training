@@ -1,0 +1,3 @@
+﻿  main.c
+D:\programing\Study\C_PL\C_express\array_compare\main.c(65): warning C4715: 'array_equal': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  array_compare.vcxproj -> D:\programing\Study\C_PL\C_express\array_compare\Debug\array_compare.exe
