@@ -1,0 +1,5 @@
+﻿  main.c
+D:\programing\Study\C_PL\C_express\10weeks_08_rectangle\main.c(3,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+  rect.c
+  코드를 생성하고 있습니다...
+  10weeks_08_rectangle.vcxproj -> D:\programing\Study\C_PL\C_express\10weeks_08_rectangle\Debug\10weeks_08_rectangle.exe
