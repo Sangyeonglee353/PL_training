@@ -1,0 +1,4 @@
+﻿  main.c
+D:\programing\Study\C_PL\C_express\12week_02_binaryRead\main.c(16,7): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\programing\Study\C_PL\C_express\12week_02_binaryRead\main.c(21,16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  12week_02_binaryRead.vcxproj -> D:\programing\Study\C_PL\C_express\12week_02_binaryRead\Debug\12week_02_binaryRead.exe
