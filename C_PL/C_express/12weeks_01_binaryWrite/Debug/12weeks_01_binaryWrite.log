@@ -1,0 +1,4 @@
+﻿  main.c
+D:\programing\Study\C_PL\C_express\12weeks_01_binaryWrite\main.c(15,7): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\programing\Study\C_PL\C_express\12weeks_01_binaryWrite\main.c(11,7): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\programing\Study\C_PL\C_express\12weeks_01_binaryWrite\main.c(9,9): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
