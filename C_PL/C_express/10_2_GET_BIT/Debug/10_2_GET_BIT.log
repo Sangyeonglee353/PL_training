@@ -1,0 +1,5 @@
+﻿  main.c
+D:\programing\Study\C_PL\C_express\10_2_GET_BIT\main.c(21,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\programing\Study\C_PL\C_express\10_2_GET_BIT\main.c(28,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\programing\Study\C_PL\C_express\10_2_GET_BIT\main.c(84,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  10_2_GET_BIT.vcxproj -> D:\programing\Study\C_PL\C_express\10_2_GET_BIT\Debug\10_2_GET_BIT.exe
