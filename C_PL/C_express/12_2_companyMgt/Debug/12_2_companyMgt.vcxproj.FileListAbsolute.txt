@@ -1,0 +1,2 @@
+C:\Users\Leesy\source\repos\12_2_companyMgt\Debug\12_2_companyMgt.exe
+D:\programing\Study\C_PL\C_express\12_2_companyMgt\Debug\12_2_companyMgt.exe
