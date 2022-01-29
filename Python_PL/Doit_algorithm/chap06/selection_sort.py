@@ -13,7 +13,7 @@ def selection_sort(a: MutableSequence) -> None:
         a[i], a[min] = a[min], a[i] # 정렬할 부분에서 맨 앞의 원소와 가장 작은 원소를 교환
 
 if __name__ == '__main__':
-    print('버블 정렬을 수행합니다.')
+    print('단순 선택 정렬을 수행합니다.')
     num = int(input('원소 수를 입력하세요.: '))
     x = [None] * num # 원소 수가 num인 배열을 생성
 
