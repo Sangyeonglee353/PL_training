@@ -1,0 +1,4 @@
+﻿  UserDefine_CopyConstructor.cpp
+D:\programing\Study\C++_PL\C++_programing\6weeks_UserDefine_CopyConstructor\UserDefine_CopyConstructor.cpp(49,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+D:\programing\Study\C++_PL\C++_programing\6weeks_UserDefine_CopyConstructor\UserDefine_CopyConstructor.cpp(52,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+  6weeks_UserDefine_CopyConstructor.vcxproj -> D:\programing\Study\C++_PL\C++_programing\6weeks_UserDefine_CopyConstructor\Debug\6weeks_UserDefine_CopyConstructor.exe
