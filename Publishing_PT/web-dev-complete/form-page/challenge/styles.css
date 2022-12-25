@@ -1,0 +1,103 @@
+body {
+    /* background-color: rgb(230, 232, 233); */
+    background-color: rgb(246, 250, 255);;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    text-align: center;
+    color: black;
+    margin: 2rem;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+form {
+    width: 30rem;
+    margin: 1rem auto;
+    /* background-color: rgb(246, 250, 255); */
+    background-color: rgb(250, 252, 252);;
+    padding: 1rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 6px;
+}
+
+label {
+    margin-bottom: 0.5rem;
+    display: block;
+}
+
+input, textarea, select {
+    width: 100%;
+    display: block;
+    margin-bottom: 1rem;
+    box-sizing: border-box;
+    font: inherit;
+    border: 1px solid rgb(184, 184, 184);
+    padding: 0.25rem;
+    color: rgb(61, 58, 58);
+}
+
+textarea {
+    resize: none;
+}
+
+input:focus,
+textarea:focus {
+    background-color: rgb(217, 227, 247);
+    color: rgb(39, 3, 82);
+    border-color: rgb(32, 5, 63);
+}
+
+button {
+    display: block;
+    font: inherit;
+    background-color: rgb(51, 67, 100);
+    color: white;
+    border: 1px solid rgb(51, 67, 100);
+    padding: 0.5rem 1.5rem;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.btn-filled {
+    background-color: rgb(51, 67, 100);
+    color: white;
+}
+
+.btn-empty {
+    background-color: transparent;
+    color:rgb(51, 67, 100);
+}
+
+.btn-filled:hover{
+    background-color: rgb(69, 89, 129);
+    border-color: rgb(69, 89, 129);
+}
+
+.btn-empty:hover{
+    background-color: rgb(208, 215, 230);
+}
+
+.form-control-inline{
+    display: flex;
+}
+
+.form-control-inline input {
+    width: auto;
+    margin-right: 0.5rem;
+}
+
+.form-actions{
+    display:flex;
+    justify-content: flex-end;
+    /* float:right; */
+}
+
+.form-actions button{
+    margin: 0 0.5rem;
+}
