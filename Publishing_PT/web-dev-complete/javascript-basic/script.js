@@ -4,3 +4,17 @@ let hobbies = ['Sports', 'Cooking', 'Reading'];
 let job = { title: 'Developer', place: 'new York', salary: 50000 };
 
 alert(hobbies);
+alert(job.title);
+
+let totalAdultYears;
+
+function calculateAdultYears(userAge) {
+    return userAge - 18;
+}
+
+totalAdultYears = calculateAdultYears(age);
+alert(totalAdultYears);
+
+age = 45;
+totalAdultYears = calculateAdultYears(age);
+alert(totalAdultYears);
