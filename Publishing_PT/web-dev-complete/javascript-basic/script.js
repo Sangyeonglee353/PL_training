@@ -3,8 +3,8 @@ let userName = 'Max';
 let hobbies = ['Sports', 'Cooking', 'Reading'];
 let job = { title: 'Developer', place: 'new York', salary: 50000 };
 
-alert(hobbies);
-alert(job.title);
+console.log(hobbies);
+console.log(job.title);
 
 let totalAdultYears;
 
@@ -13,8 +13,17 @@ function calculateAdultYears(userAge) {
 }
 
 totalAdultYears = calculateAdultYears(age);
-alert(totalAdultYears);
+console.log(totalAdultYears);
 
 age = 45;
 totalAdultYears = calculateAdultYears(age);
-alert(totalAdultYears);
+console.log(totalAdultYears);
+
+let person = {
+    name: 'Max', // Property
+    greet() {
+        console.log('Hello');
+    }
+};
+
+person.greet();
