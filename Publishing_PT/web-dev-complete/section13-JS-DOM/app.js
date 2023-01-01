@@ -43,3 +43,20 @@ document.querySelector('a');
 // document.querySelector('a { color: red; }');
 anchorElement = 'https://naver.com';
 console.log(anchorElement);
+
+// ############################################
+/* ADD AN ELEMENT */
+// ############################################
+// 1. Create the new element
+// 태그를 따로 입력하지 않고 태그명만 작성한다.
+let newAnchorElement = document.createElement('a');
+newAnchorElement.href = 'https://google.com';
+newAnchorElement.textContent = 'This leads to Google!';
+
+// 2. Get access to the parent element that should hold the the new element
+let firstParagraph = document.querySelector('p');
+
+// 3. Insert the new element into the parent element content
+// append(), appendChild()는 단락에 여기에 있는 텍스트 노드나 HTML 요소 노드 중 하나를 추가한다.
+// 다른 방법_insert()
+firstParagraph.append(newAnchorElement);
