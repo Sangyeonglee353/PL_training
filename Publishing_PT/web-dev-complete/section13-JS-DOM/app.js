@@ -60,3 +60,36 @@ let firstParagraph = document.querySelector('p');
 // append(), appendChild()는 단락에 여기에 있는 텍스트 노드나 HTML 요소 노드 중 하나를 추가한다.
 // 다른 방법_insert()
 firstParagraph.append(newAnchorElement);
+
+// ############################################
+/* REMOVE ELEMENTS */
+// ############################################
+// 1. Select the element that should be removed
+let firstH1Element = document.querySelector('h1');
+
+// 2. Remove it!
+// 방법 1_예전 브라우저에선 동작 X
+firstH1Element.remove();
+
+// 방법 2_예전 브라우저에서도 동작 O
+// firstH1Element.parentElement.removeChild(firstH1Element);
+
+// ############################################
+/* MOVE ELEMENTS */
+// ############################################
+// 방법 1
+// firstParagraph.parentElement.append(firstParagraph);
+
+// 방법 2
+let highlightedParagraph = document.querySelector('.highlighted-paragraph');
+
+// 일반적으로 바로 이전에 추가하려는 경우
+// firstParagraph.parentElement.insertBefore(firstParagraph, highlightedParagraph);
+// 요소 뒤에 추가하고 싶은 경우
+firstParagraph.parentElement.insertBefore(firstParagraph, highlightedParagraph.nextElementSibling);
+
+// ############################################
+/* innerHTML */
+// ############################################
+console.log(firstParagraph.innerHTML);
+firstParagraph.innerHTML = 'Hi! is <strong>important!</strong>';
