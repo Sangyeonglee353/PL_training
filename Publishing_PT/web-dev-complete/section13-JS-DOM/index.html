@@ -8,7 +8,9 @@
     <!-- document 객체까지는 확인 가능!  -->
     <!-- <script src="app.js" defer></script> -->
     <!-- <script src="exercise.js" defer></script> -->
-    <script src="event.js" defer></script>
+    <!-- <script src="event.js" defer></script> -->
+    <link rel="stylesheet" href="demoStyles.css">
+    <script src="demo.js" defer></script>
 </head>
 <body>
     <!-- <h1 id="first-title">Hi there!</h1>
@@ -17,8 +19,18 @@
         This is a
         <a href="#" id="external-id" class="external-class">link</a>
     </p> -->
-    <p>Click me!</p>
-    <input type="text">
+    <!-- <p>Click me!</p>
+    <input type="text"> -->
     <!-- <script src="app.js"></script> -->
+    <form>
+        <div class="control">
+            <label for="product-name">Product Name</label>
+            <input type="text" id="product-name" name="product-name" maxlength=60">
+            <span id="charcount">
+                <span id="remaining-chars">60</span>/60
+            </span>
+        </div>
+        <button>Submit</button>
+    </form>
 </body>
 </html>
