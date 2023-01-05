@@ -10,6 +10,9 @@ function updateRemainingCharacters(event) {
     
     const remainingCharacters = maxAllowedChars - enteredTextLength;
 
+    if(remainingCharacters < 10){
+        remainingCharsElement.style.color = 'red';
+    }
     remainingCharsElement.textContent = remainingCharacters;
 }
 productNameInputElement.addEventListener('input', updateRemainingCharacters);
