@@ -1,0 +1,43 @@
+function startNewGame() {
+    if(players[0].name === '' || players[1].name === ''){
+        alert('Please set custom player names for both players!');
+        return;
+    }
+    activePlayerNameElement.textContent = players[activePlayer].name;
+    gameAreaElement.style.display='block';
+}
+
+function switchPlayer () {
+    if(activePlayer === 0) {
+        activePlayer = 1;
+    }else{
+        activePlayer = 0;
+    }
+    activePlayerNameElement.textContent = players[activePlayer].name;
+}
+
+function selectGameField(event) {
+    if(event.target.tagName !== 'LI'){ // 주의: 대문자여야 한다!
+        return;
+    }
+
+    // 선택한 데이터 배열에 저장
+    const selectedField = event.target;
+
+    const selectedColumn = selectedField.dataset.col - 1;
+    const selectedRow = selectedField.dataset.row - 1;
+    
+    // 이미 선택한 곳은 선택하지 못하도록 설정
+    if(gameData[selectedRow][selectedColumn] > 0) {
+        alert('Please select an empty field!');
+        return;
+    }
+
+    event.target.textContent = players[activePlayer].symbol; // players[0]
+    event.target.classList.add('disabled');
+
+    gameData[selectedRow][selectedColumn] = activePlayer + 1;
+    console.log(gameData);
+    
+    switchPlayer();
+}
