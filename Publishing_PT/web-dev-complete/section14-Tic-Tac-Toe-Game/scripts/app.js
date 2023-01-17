@@ -6,6 +6,8 @@ const gameData = [
 
 let editedPlayer = 0; // 선택된 플레이어 번호
 let activePlayer = 0;
+let currentRound = 1; // 라운드 수
+let gameIsOver = false;
 
 // 플레이어 배열 저장하기
 const players = [
@@ -24,6 +26,7 @@ const backdropElement = document.getElementById('backdrop');
 const formElement = document.querySelector('form');
 const errorsOutputElement = document.getElementById('config-errors');
 const gameAreaElement = document.getElementById('active-game');
+const gameOverElement = document.getElementById('game-over')
 
 const editPlayer1BtnElement = document.getElementById('edit-player-1-btn');
 const editPlayer2BtnElement = document.getElementById('edit-player-2-btn');
